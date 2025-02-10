@@ -1,5 +1,6 @@
 # Brainwave_Matrix_Intern
 --> click on open in colab then the repository will directly open in your colab
+
 This project focuses on analyzing retail sales data using Python and various data visualization techniques. It explores trends, patterns, and relationships between sales and other factors like temperature, fuel prices, and holidays.
 
 # Objectives
