@@ -43,7 +43,7 @@ Scatter Plots: Relationship between Weekly_Sales and numerical features.
 
 # Installation & Usage
 1. Clone the repository:
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Me-lab-c/Brainwave_Matrix_Intern.git
 cd your-repository
 
 2. Install dependencies (if needed):
