@@ -1,4 +1,5 @@
 # Brainwave_Matrix_Intern
+# Task 1
 --> click on open in colab then the repository will directly open in your colab
 --> Dataset link
 https://www.kaggle.com/datasets/mikhail1681/walmart-sales
@@ -55,3 +56,7 @@ pip install pandas matplotlib seaborn
 Sales drop during certain holidays.
 Temperature & Fuel Prices have some impact on sales trends.
 Monthly sales fluctuate, indicating seasonal trends.
+
+
+# Task 2
+
