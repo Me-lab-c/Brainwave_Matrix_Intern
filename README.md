@@ -59,4 +59,29 @@ Monthly sales fluctuate, indicating seasonal trends.
 
 
 # Task 2
+--> Dataset link
+https://www.kaggle.com/datasets/cosmos98/twitter-and-reddit-sentimental-analysis-dataset
+
+# Description
+This project analyzes sentiment from social media platforms, specifically Twitter and Reddit. It processes textual data to determine public sentiment on various topics using NLP techniques.
+
+# Dataset
+The project includes the following datasets:
+Reddit_Data.csv - Contains scraped Reddit comments and posts.
+Twitter_Data.csv - Contains tweets related to the selected topic.
+
+# Features
+Data preprocessing (cleaning, tokenization, stopword removal)
+Sentiment analysis using NLP techniques
+Visualization of sentiment trends
+
+# Installation
+Clone this repository:
+git clone https://github.com/your-username/your-repo.git
+
+# Install dependencies:
+pip install -r requirements.txt
+
+
+
 
