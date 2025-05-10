@@ -77,7 +77,7 @@ Visualization of sentiment trends
 
 # Installation
 Clone this repository:
-git clone https://github.com/your-username/your-repo.git
+git clone https://github.com/Melab-c/your-repo.git
 
 # Install dependencies:
 pip install -r requirements.txt
